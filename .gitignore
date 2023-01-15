@@ -2,3 +2,4 @@ venv
 *.spec
 .idea
 *.xlsx
+**/__pycache__
